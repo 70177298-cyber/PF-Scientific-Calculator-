@@ -1,3 +1,3 @@
 # PF-Scientific-Calculator-
-C++ code using functions
-pptx file 
+# C++ code using functions
+# pptx file 
